@@ -39,7 +39,7 @@
 
 If any of my projects save you time or inspire your work, consider sponsoring to help me keep building in the open.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/tornidomaroc-web)
+[![Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/abojad2017)
 
 ---
 
