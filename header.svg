@@ -1,20 +1,32 @@
-<svg width="800" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
-  <defs><style>
-    .t1{font-family:'Courier New',monospace;font-size:32px;font-weight:700;fill:#0d0d0d}
-    .t2{font-family:'Courier New',monospace;font-size:13px;fill:#555}
-    .t3{font-family:'Courier New',monospace;font-size:12px;fill:#999}
-    .cursor{fill:#1D9E75;animation:blink 1.1s step-end infinite}
-    @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
-    .row1{animation:up 0.5s ease 0.05s both}
-    .row2{animation:up 0.5s ease 0.25s both}
-    .row3{animation:up 0.5s ease 0.45s both}
-    .row4{animation:up 0.5s ease 0.65s both}
-    @keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
-  </style></defs>
-  <rect width="800" height="130" fill="#f8f8f6"/>
-  <rect x="0" y="0" width="4" height="130" fill="#1D9E75"/>
-  <g class="row1"><text x="28" y="54" class="t1">Abo Jad</text><rect x="168" y="26" width="10" height="32" rx="1" class="cursor"/></g>
-  <g class="row2"><text x="28" y="80" class="t2">Independent builder · SaaS · AI · Arabic-first products</text></g>
-  <g class="row3"><text x="28" y="102" class="t3">🇲🇦 Morocco</text><rect x="104" y="92" width="1" height="13" fill="#ddd"/><text x="114" y="102" class="t3">github.com/tornidomaroc-web</text><rect x="288" y="92" width="1" height="13" fill="#ddd"/><text x="298" y="102" class="t3">5 live products</text></g>
-  <g class="row4"><rect x="28" y="116" width="60" height="2" rx="1" fill="#1D9E75"/><rect x="96" y="116" width="30" height="2" rx="1" fill="#BA7517"/><rect x="134" y="116" width="20" height="2" rx="1" fill="#185FA5"/></g>
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  .name{font-family:'Courier New',monospace;font-size:56px;font-weight:700;fill:#0a0a0a;letter-spacing:-2px}
+  .line{stroke:#e0e0dc;stroke-width:1}
+  .stmt{font-family:'Courier New',monospace;font-size:14px;fill:#111}
+  .meta{font-family:'Courier New',monospace;font-size:11px;fill:#888;letter-spacing:0.08em}
+  .cursor{fill:#1D9E75;animation:blink 1s step-end infinite}
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+  .n{animation:up .4s ease both}
+  .s{animation:up .4s ease .2s both}
+  .m{animation:up .4s ease .4s both}
+  .d{animation:up .4s ease .6s both}
+  @keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+</style></defs>
+<rect width="800" height="200" fill="#f9f9f7"/>
+<g class="n">
+  <text x="32" y="90" class="name">Abo Jad</text>
+  <rect x="278" y="46" width="8" height="52" rx="1" class="cursor"/>
+</g>
+<line x1="32" y1="108" x2="768" y2="108" class="line s"/>
+<g class="s">
+  <text x="32" y="132" class="stmt">I ship products. Real ones. Used by real people.</text>
+</g>
+<g class="m">
+  <text x="32" y="161" class="meta">MOROCCO · 5 LIVE PRODUCTS · FULL-STACK · AI</text>
+</g>
+<g class="d">
+  <rect x="32" y="182" width="48" height="2" rx="1" fill="#1D9E75"/>
+  <rect x="88" y="182" width="24" height="2" rx="1" fill="#BA7517"/>
+  <rect x="120" y="182" width="16" height="2" rx="1" fill="#185FA5"/>
+</g>
 </svg>
