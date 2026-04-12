@@ -1,50 +1,29 @@
-# Hi, I'm AboJad 👋
+<div align="center">
 
-> Builder & Operator — AI-powered tools for developers and e-commerce sellers.
+![header](https://raw.githubusercontent.com/tornidomaroc-web/tornidomaroc-web/main/header.svg)
+
+![](https://img.shields.io/badge/🇲🇦_Morocco-gray?style=flat-square&labelColor=0f0f0f&color=1D9E75)
+![](https://img.shields.io/badge/Status-Building-555?style=flat-square&labelColor=0f0f0f&color=BA7517)
+![](https://img.shields.io/badge/Stack-Next.js_·_AI_·_Supabase-555?style=flat-square&labelColor=0f0f0f&color=185FA5)
+
+</div>
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Status |
-|---|---|---|
-| [Scan & Action](https://github.com/tornidomaroc-web/scan-and-action) | AI invoice processing — Gemini Vision extracts, classifies, and flags invoices automatically | ✅ Live |
-| [UnicornApps](https://github.com/tornidomaroc-web/UnicornApps) | AI e-commerce content engine — generates product listings for Amazon, Shopify & social media | ✅ Live |
-| [Fixor](https://github.com/tornidomaroc-web/fixor) | Automated security vulnerability detection for GitHub PRs — SQL, XSS, CMDi, Path Traversal | ✅ Live |
-| [context-ops-mcp](https://github.com/tornidomaroc-web/context-ops-mcp) | Revenue diagnosis MCP tool — finds billing gaps and onboarding friction in SaaS codebases | 🔧 Beta |
+<table>
+<tr><td width="36" align="center">🧠</td><td><strong><a href="https://tryknowflow.com">KnowFlow</a></strong> &nbsp;<img src="https://img.shields.io/badge/NEW-1D9E75?style=flat-square" height="14"/></td><td>Turn any file into a bilingual AI agent · Arabic &amp; English</td><td><img src="https://img.shields.io/badge/●_Live-1D9E75?style=flat-square" height="14"/></td></tr>
+<tr><td align="center">📄</td><td><strong>Scan &amp; Action</strong></td><td>AI receipt processing · Gemini Vision · auto-approve pipeline</td><td><img src="https://img.shields.io/badge/●_Live-1D9E75?style=flat-square" height="14"/></td></tr>
+<tr><td align="center">🦄</td><td><strong>UnicornApps</strong></td><td>AI product content engine for Amazon, Shopify &amp; social · AR/EN</td><td><img src="https://img.shields.io/badge/●_Live-1D9E75?style=flat-square" height="14"/></td></tr>
+<tr><td align="center">🔧</td><td><strong>Fixor</strong></td><td>SaaS workflow automation</td><td><img src="https://img.shields.io/badge/●_Live-1D9E75?style=flat-square" height="14"/></td></tr>
+<tr><td align="center">⚙️</td><td><strong>context-ops-mcp</strong></td><td>MCP server · revenue diagnosis for open-source SaaS repos</td><td><img src="https://img.shields.io/badge/◐_Beta-BA7517?style=flat-square" height="14"/></td></tr>
+</table>
 
 ---
 
-## 🛠 Stack
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+`Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `Claude API` &nbsp;·&nbsp; `Gemini` &nbsp;·&nbsp; `Prisma` &nbsp;·&nbsp; `MCP` &nbsp;·&nbsp; `Railway` &nbsp;·&nbsp; `Vercel`
 
----
-
-## 💡 What I build
-
-- **AI tools** that automate real business workflows
-- **SaaS products** targeting Arabic-speaking e-commerce markets
-- **Developer tools** that improve code quality and security
-
----
-
-## 🤝 Sponsorship
-
-If any of my projects save you time or inspire your work, consider sponsoring to help me keep building in the open.
-
-[![Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/abojad2017)
-
----
-
-## 📫 Contact
-
-- GitHub: [@tornidomaroc-web](https://github.com/tornidomaroc-web)
-- Email: tornido.maroc@gmail.com
-- Location: Morocco 🇲🇦
+</div>
