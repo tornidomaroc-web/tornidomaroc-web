@@ -24,14 +24,10 @@ Receipt and invoice processing in English, French and Arabic. Gemini reads the m
 Product copy from one photo: title, description, bullet points, Shopify HTML and social captions, in Arabic or English. Next.js, Supabase, Gemini.\
 [Google Play](https://play.google.com/store/apps/details?id=com.unicornappsai.app&hl=en) · [Web](https://www.unicornapps.app) · [Code](https://github.com/tornidomaroc-web/UnicornApps)
 
-**Fixor** · open source\
-Pull-request security scanner for Node/TypeScript: pattern checks plus a Claude review for access-control and secret-leak mistakes. Its measurements are published in the repo, including a negative field-trial result.\
-[Code](https://github.com/tornidomaroc-web/fixor) · [FastAPI proof](https://github.com/tornidomaroc-web/fixor-fastapi-proof)
-
 ### Stack
 
 TypeScript, Python · Next.js, React, React Native (Expo), FastAPI, Express · PostgreSQL, Supabase, SQLite, Prisma · Claude API, Gemini, Voyage embeddings · Capacitor, Docker, GitHub Actions, Vercel, Railway · Paddle
 
 ### Contact
 
-tornido.maroc@gmail.com · [Portfolio](https://portfolio-three-lac-35.vercel.app)
+ [Portfolio](https://portfolio-three-lac-35.vercel.app)
