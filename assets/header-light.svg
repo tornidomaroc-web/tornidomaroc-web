@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="430" viewBox="0 0 880 430" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="399" viewBox="0 0 600 399" role="img" aria-labelledby="t d">
 <title id="t">Abdelfettah Amellah</title>
 <desc id="d">Full-stack AI engineer in Morocco. Ships apps to the App Store, Google Play and the web, in Arabic, English and French.</desc>
 <style>
 .m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace} .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
-.k{fill:#9a6700;font-size:22px} .v{fill:#1f2328;font-size:22px}
-.p{fill:#1a7f37;font-size:22px;font-weight:700} .c{fill:#59636e;font-size:22px}
+.k{fill:#9a6700;font-size:19px} .v{fill:#1f2328;font-size:19px}
+.p{fill:#1a7f37;font-size:19px;font-weight:700} .c{fill:#59636e;font-size:19px}
 .cur{animation:b 1.1s steps(1) infinite} @keyframes b{50%{opacity:0}}
 @media (prefers-reduced-motion:reduce){.cur{animation:none}}
 </style>
-<rect x="1" y="1" width="878" height="428" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
-<path d="M1 15a14 14 0 0 1 14-14h850a14 14 0 0 1 14 14v31H1z" fill="#eaeef2"/>
-<line x1="1" y1="46" x2="879" y2="46" stroke="#d0d7de" stroke-width="2"/>
-<circle cx="28" cy="24" r="7" fill="#ff5f57"/><circle cx="50" cy="24" r="7" fill="#febc2e"/><circle cx="72" cy="24" r="7" fill="#28c840"/>
-<text x="440" y="30" text-anchor="middle" class="m" fill="#59636e" font-size="16">abdelfettah@morocco: ~</text>
-<text x="48" y="92" class="m p">$</text><text x="74" y="92" class="m c">whoami</text>
-<text x="48" y="146" class="s" fill="#1f2328" font-size="46" font-weight="700">Abdelfettah Amellah</text>
-<text x="48" y="196" class="m k">role</text><text x="230" y="196" class="m v">Full-stack AI engineer</text><text x="48" y="230" class="m k">location</text><text x="230" y="230" class="m v">Morocco</text><text x="48" y="264" class="m k">ships to</text><text x="230" y="264" class="m v">App Store · Google Play · the web</text><text x="48" y="298" class="m k">languages</text><text x="230" y="298" class="m v">Arabic · English · French</text><text x="48" y="332" class="m k">ai</text><text x="230" y="332" class="m v">Claude API · Gemini · RAG</text><text x="48" y="366" class="m k">open src</text><text x="230" y="366" class="m v">UAS Sustainment Workbench</text>
-<text x="48" y="436" class="m p">$</text><rect class="cur" x="74" y="417" width="13" height="24" fill="#0969da"/>
+<rect x="1" y="1" width="598" height="397" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12-12h574a12 12 0 0 1 12 12v27H1z" fill="#eaeef2"/>
+<line x1="1" y1="40" x2="599" y2="40" stroke="#d0d7de" stroke-width="2"/>
+<circle cx="24" cy="21" r="6" fill="#ff5f57"/><circle cx="43" cy="21" r="6" fill="#febc2e"/><circle cx="62" cy="21" r="6" fill="#28c840"/>
+<text x="300" y="26" text-anchor="middle" class="m" fill="#59636e" font-size="14">abdelfettah@morocco: ~</text>
+<text x="32" y="80" class="m p">$</text><text x="54" y="80" class="m c">whoami</text>
+<text x="32" y="128" class="s" fill="#1f2328" font-size="40" font-weight="700">Abdelfettah Amellah</text>
+<text x="32" y="172" class="m k">role</text><text x="168" y="172" class="m v">Full-stack AI engineer</text><text x="32" y="203" class="m k">location</text><text x="168" y="203" class="m v">Morocco</text><text x="32" y="234" class="m k">ships to</text><text x="168" y="234" class="m v">App Store · Google Play · web</text><text x="32" y="265" class="m k">languages</text><text x="168" y="265" class="m v">Arabic · English · French</text><text x="32" y="296" class="m k">ai</text><text x="168" y="296" class="m v">Claude API · Gemini · RAG</text><text x="32" y="327" class="m k">open src</text><text x="168" y="327" class="m v">UAS Sustainment Workbench</text>
+<text x="32" y="371" class="m p">$</text><rect class="cur" x="54" y="354" width="11" height="21" fill="#0969da"/>
 </svg>

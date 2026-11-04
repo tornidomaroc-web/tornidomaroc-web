@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img src="assets/header-light.svg" width="100%" alt="Abdelfettah Amellah. Full-stack AI engineer in Morocco. Ships apps to the App Store, Google Play and the web, in Arabic, English and French.">
+    <img src="assets/header-light.svg" width="600" alt="Abdelfettah Amellah. Full-stack AI engineer in Morocco. Ships apps to the App Store, Google Play and the web, in Arabic, English and French.">
   </picture>
 </p>
 
@@ -16,21 +16,21 @@ I build products end to end, from the database to the store listing, and ship th
 
 ```text
 abdelfettah@morocco:~$ focus
-├── Mobile & web apps   → Next.js · React · Capacitor · Expo, shipped to the App Store and Google Play
-├── Applied AI          → Claude API · Gemini · retrieval with Voyage embeddings · answers that cite the source
-├── Backend & data      → FastAPI · Express · Supabase · PostgreSQL · Prisma · SQLite
-├── Arabic-first UX     → right-to-left interfaces · Arabic, English and French
-└── Engineering habits  → typed code · tests and CI · limits written down, not hidden
+├── apps     → App Store · Google Play · web
+├── ai       → Claude · Gemini · RAG
+├── backend  → FastAPI · Express · Supabase
+├── arabic   → RTL · Arabic · English · French
+└── habits   → tests · CI · written limits
 ```
 
 ## Featured work
 
 | Project | What it demonstrates | Focus | Status |
 |---|---|---|---|
-| **[UAS Sustainment Workbench](https://github.com/tornidomaroc-web/uas-sustainment-workbench)** | Turns PX4 and ArduPilot flight logs into a small civil drone fleet's maintenance records: what is due, and why. Append-only ledger, verifiable write journal, readiness board. | Python · FastAPI · SQLite · Docker | Open source · [Demo](https://tornidomaroc-web.github.io/uas-sustainment-workbench/) |
-| **[KnowFlow](https://github.com/tornidomaroc-web/knowflow)** | Arabic-first study app: students upload course files and get answers that name the source file, plus summaries and quizzes. | Next.js · FastAPI · Claude · Voyage embeddings · Supabase | [App Store](https://apps.apple.com/us/app/knowflow-study-your-notes/id6820418649?uo=4) · [Web](https://tryknowflow.com) |
-| **[Scan & Action](https://github.com/tornidomaroc-web/scan-and-action)** | Receipt and invoice processing in English, French and Arabic: Gemini extraction plus a rule engine that flags what needs a second look. | React · Express · Prisma · PostgreSQL · Capacitor | [Google Play](https://play.google.com/store/apps/details?id=com.scanaction.app&hl=en) · [Web](https://www.scan-action.com) |
-| **[UnicornApps](https://github.com/tornidomaroc-web/UnicornApps)** | Product copy from one photo (title, description, bullets, Shopify HTML, social captions) in Arabic or English, with credits and Paddle billing. | Next.js · Supabase · Gemini · Capacitor | [Google Play](https://play.google.com/store/apps/details?id=com.unicornappsai.app&hl=en) · [Web](https://www.unicornapps.app) |
+| **[UAS Sustainment Workbench](https://github.com/tornidomaroc-web/uas-sustainment-workbench)** | Reads PX4 and ArduPilot flight logs and keeps a civil drone fleet's maintenance records: what is due, and why | Python · FastAPI · SQLite | Open source · [Demo](https://tornidomaroc-web.github.io/uas-sustainment-workbench/) |
+| **[KnowFlow](https://github.com/tornidomaroc-web/knowflow)** | Arabic-first study app: answers from your own course files that name the source | Next.js · FastAPI · Claude | [App Store](https://apps.apple.com/us/app/knowflow-study-your-notes/id6820418649?uo=4) · [Web](https://tryknowflow.com) |
+| **[Scan & Action](https://github.com/tornidomaroc-web/scan-and-action)** | Receipts and invoices in EN, FR and AR: Gemini reads them, rules flag what needs review | React · Express · Prisma | [Google Play](https://play.google.com/store/apps/details?id=com.scanaction.app&hl=en) · [Web](https://www.scan-action.com) |
+| **[UnicornApps](https://github.com/tornidomaroc-web/UnicornApps)** | Product copy from one photo, in Arabic or English, with credits and Paddle billing | Next.js · Supabase · Gemini | [Google Play](https://play.google.com/store/apps/details?id=com.unicornappsai.app&hl=en) · [Web](https://www.unicornapps.app) |
 
 **Measured, with the source in each repo**
 
@@ -43,13 +43,13 @@ abdelfettah@morocco:~$ focus
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" width="100%" alt="Stack. Languages: TypeScript, Python. Web: Next.js, React, Tailwind CSS. Mobile: React Native, Expo, Capacitor. Backend: FastAPI, Express, Node.js. Data: Supabase, PostgreSQL, Prisma, SQLite. AI: Claude API, Gemini, Voyage embeddings. Ship and run: Docker, GitHub Actions, Vercel, Railway, Paddle.">
+  <img src="assets/stack-light.svg" width="600" alt="Stack. Languages: TypeScript, Python. Web: Next.js, React, Tailwind CSS. Mobile: React Native, Expo, Capacitor. Backend: FastAPI, Express, Node.js. Data: Supabase, PostgreSQL, Prisma, SQLite. AI: Claude API, Gemini, Voyage embeddings. Ship and run: Docker, GitHub Actions, Vercel, Railway, Paddle.">
 </picture>
 
 ## Current direction
 
 ```text
-[ BUILD ] ──→ [ SHIP ] ──→ [ MEASURE ] ──→ [ WRITE DOWN THE LIMITS ]
+[ BUILD ] → [ SHIP ] → [ MEASURE ]
 ```
 
 Looking for a full-time **AI engineer** role, on-site or remote, in Morocco or the Gulf: shipping mobile and web products with AI features, Arabic-first.
