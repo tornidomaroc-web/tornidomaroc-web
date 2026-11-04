@@ -8,22 +8,22 @@
 
 ## Work
 
-| | Project | What it does | |
+| | Project | What it does | Where |
 |---|---|---|---|
-| 🧠 | **[KnowFlow](https://tryknowflow.com)** | Chat with any document — bilingual AI agent, no setup | ![](https://img.shields.io/badge/Live-1D9E75?style=flat-square) |
-| 📄 | **Scan & Action** | Receipt intelligence — Gemini Vision extracts, classifies, flags | ![](https://img.shields.io/badge/Live-1D9E75?style=flat-square) |
-| 🦄 | **UnicornApps** | AI content engine for e-commerce sellers — listings at scale | ![](https://img.shields.io/badge/Live-1D9E75?style=flat-square) |
-| 🔧 | **Fixor** | Automated security scanning for GitHub PRs | ![](https://img.shields.io/badge/Live-1D9E75?style=flat-square) |
-| ⚙️ | **context-ops-mcp** | MCP server — gives AI agents a revenue-aware map of any SaaS codebase | ![](https://img.shields.io/badge/Beta-BA7517?style=flat-square) |
+| 🧠 | **[KnowFlow](https://github.com/tornidomaroc-web/knowflow)** | Arabic-first study app: upload course files, ask questions, get answers that name the source file, plus summaries and quizzes | [App Store](https://apps.apple.com/us/app/knowflow-study-your-notes/id6820418649?uo=4) · [Web](https://tryknowflow.com) |
+| 🏠 | **Daftar Alwaseet** | Offline Arabic app for Saudi real-estate brokers: turns a client's WhatsApp message into a saved client with a follow-up reminder. No server, no account | [App Store](https://apps.apple.com/sa/app/daftar-alwaseet-broker-crm/id6822930243?uo=4) |
+| 📄 | **[Scan & Action](https://github.com/tornidomaroc-web/scan-and-action)** | Receipt and invoice processing in English, French and Arabic: Gemini reads the receipt, a rule engine flags what needs a second look | [Google Play](https://play.google.com/store/apps/details?id=com.scanaction.app&hl=en) · [Web](https://www.scan-action.com) |
+| 🦄 | **[UnicornApps](https://github.com/tornidomaroc-web/UnicornApps)** | Product copy from one photo — title, description, bullets, Shopify HTML, social captions — in Arabic or English | [Google Play](https://play.google.com/store/apps/details?id=com.unicornappsai.app&hl=en) · [Web](https://www.unicornapps.app) |
+| 🔧 | **[Fixor](https://github.com/tornidomaroc-web/fixor)** | Open-source pull-request security scanner for Node/TypeScript, with its measurements published in the repo, including a negative result | Open source |
 
 ---
 
 ## Stack
 
-`Next.js` · `TypeScript` · `Supabase` · `Claude API` · `Gemini` · `Prisma` · `Python` · `MCP` · `Railway` · `Vercel`
+`TypeScript` · `Python` · `Next.js` · `React Native / Expo` · `FastAPI` · `Supabase` · `PostgreSQL` · `Prisma` · `Claude API` · `Gemini` · `Capacitor` · `Railway` · `Vercel` · `Paddle`
 
 ---
 
-<sub>5 products. 1 builder. Shipping from Morocco.</sub>
+<sub>Built end to end by one developer, from Morocco.</sub>
 
 ---
