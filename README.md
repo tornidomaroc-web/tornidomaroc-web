@@ -25,12 +25,12 @@ abdelfettah@morocco:~$ focus
 
 ## Featured work
 
-| Project | What it demonstrates | Focus | Status |
+| Project | Status | What it demonstrates | Focus |
 |---|---|---|---|
-| **[UAS Sustainment Workbench](https://github.com/tornidomaroc-web/uas-sustainment-workbench)** | Reads PX4 and ArduPilot flight logs and keeps a civil drone fleet's maintenance records: what is due, and why | Python · FastAPI · SQLite | Open source · [Demo](https://tornidomaroc-web.github.io/uas-sustainment-workbench/) |
-| **[KnowFlow](https://github.com/tornidomaroc-web/knowflow)** | Arabic-first study app: answers from your own course files that name the source | Next.js · FastAPI · Claude | [App Store](https://apps.apple.com/us/app/knowflow-study-your-notes/id6820418649?uo=4) · [Web](https://tryknowflow.com) |
-| **[Scan & Action](https://github.com/tornidomaroc-web/scan-and-action)** | Receipts and invoices in EN, FR and AR: Gemini reads them, rules flag what needs review | React · Express · Prisma | [Google Play](https://play.google.com/store/apps/details?id=com.scanaction.app&hl=en) · [Web](https://www.scan-action.com) |
-| **[UnicornApps](https://github.com/tornidomaroc-web/UnicornApps)** | Product copy from one photo, in Arabic or English, with credits and Paddle billing | Next.js · Supabase · Gemini | [Google Play](https://play.google.com/store/apps/details?id=com.unicornappsai.app&hl=en) · [Web](https://www.unicornapps.app) |
+| **[UAS Sustainment Workbench](https://github.com/tornidomaroc-web/uas-sustainment-workbench)** | Open source · [Demo](https://tornidomaroc-web.github.io/uas-sustainment-workbench/) | Reads PX4 and ArduPilot flight logs and keeps a civil drone fleet's maintenance records: what is due, and why | Python · FastAPI · SQLite |
+| **[KnowFlow](https://github.com/tornidomaroc-web/knowflow)** | [App Store](https://apps.apple.com/us/app/knowflow-study-your-notes/id6820418649?uo=4) · [Web](https://tryknowflow.com) | Arabic-first study app: answers from your own course files that name the source | Next.js · FastAPI · Claude |
+| **[Scan & Action](https://github.com/tornidomaroc-web/scan-and-action)** | [Google Play](https://play.google.com/store/apps/details?id=com.scanaction.app&hl=en) · [Web](https://www.scan-action.com) | Receipts and invoices in EN, FR and AR: Gemini reads them, rules flag what needs review | React · Express · Prisma |
+| **[UnicornApps](https://github.com/tornidomaroc-web/UnicornApps)** | [Google Play](https://play.google.com/store/apps/details?id=com.unicornappsai.app&hl=en) · [Web](https://www.unicornapps.app) | Product copy from one photo, in Arabic or English, with credits and Paddle billing | Next.js · Supabase · Gemini |
 
 **Measured, with the source in each repo**
 
